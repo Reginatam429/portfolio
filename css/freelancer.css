@@ -213,6 +213,7 @@ figure {
 }
 
 img {
+  border-radius: 50%;
   vertical-align: middle;
   border-style: none;
 }
