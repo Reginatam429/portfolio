@@ -11,10 +11,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
- .profilepic {
+ .masthead-avatar{
   border-radius: 50%;
  }
 
+ .myprojects{
+   text-align: center;
+ }
 
 
 
@@ -213,7 +216,7 @@ figure {
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 50%
   vertical-align: middle;
   border-style: none;
 }
